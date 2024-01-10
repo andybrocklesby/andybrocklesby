@@ -1,16 +1,18 @@
-### Hi there 👋
+👋 Hi, I'm Andy.
 
-<!--
-**andybrocklesby/andybrocklesby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 27-year-old developer based in the USA 🇺🇸 with roots in the UK 🇬🇧.
 
-Here are some ideas to get you started:
+Specializing in frontend development, I'm on a journey to become a formidable full stack engineer! 💪
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out my content:
+
+- Explore more about me on my personal site: https://andybrocklesby.github.io/
+- Stay updated with my experiences on my blog: https://andybrocklesby.github.io/blog
+- Join me on my coding adventure by checking out my YouTube channel: @andywilliamb. Expect coding lifestyle videos that capture the essence of my developer life.
+
+ 🚀 Let's code together!
+
+
+
+
+
